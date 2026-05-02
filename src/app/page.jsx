@@ -7,9 +7,6 @@ export default function Home() {
   return (
     <main>
       <SigninPage />
-    <FaGoogleDrive className="text-3xl text-red-600"/>
-    <Apple />
-    <CircleFadingPlus />
     </main>
   )
 }
